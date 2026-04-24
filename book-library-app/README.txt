@@ -7,7 +7,3 @@ Docker Instructions:
 
 3) Open browser:
    http://localhost:4173
-
-Group Member Info:
-- Member 1: [Berat Alkan   - 10616550172 ]
-- Member 2: [Kenan Toprak  - 12779293774 ]
